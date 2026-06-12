@@ -1,0 +1,523 @@
+{
+  "products": [
+    {
+      "id": 1002,
+      "name": "L'Oréal Paris",
+      "variant": "Nourishing Color",
+      "shelf_price": "$5.50",
+      "original_price": "$6.50",
+      "unit_price": "$2.75 per oz",
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "Save $1.00 on online orders",
+        "validity_dates": "06/01-06/15"
+      },
+      "future_promo_details": {
+        "promo_label": "BOGO 50%",
+        "details": "Buy one get one 50% off regular price",
+        "validity_dates": "06/16-06/30"
+      },
+      "lowest_price": "$4.99",
+      "recommendations": [
+        "L'Oréal Paris Color Radiance Conditioner",
+        "Garnier Nutrisse Hair Color"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "review_count": 1240
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Mi Rancho",
+      "variant": "Pure Tortilla",
+      "shelf_price": "$2.52",
+      "original_price": null,
+      "unit_price": "$0.23 per count",
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "SALE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": "$2.50",
+      "recommendations": [
+        "Mi Rancho Organic Corn Tortillas",
+        "Wholly Guacamole Classic"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "review_count": 312
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Pepsi",
+      "variant": "Mini",
+      "shelf_price": "$1.49",
+      "original_price": null,
+      "unit_price": "$0.20 per fl oz",
+      "current_promo_details": {
+        "promo_label": null,
+        "details": "Everyday low price",
+        "validity_dates": null
+      },
+      "future_promo_details": {
+        "promo_label": "MULTIPACK SAVINGS",
+        "details": "Buy 3 for $3.50",
+        "validity_dates": "07/01-07/07"
+      },
+      "lowest_price": "$1.10",
+      "recommendations": [
+        "Diet Pepsi Mini",
+        "Pepsi Zero Sugar Mini"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "review_count": 855
+      }
+    },
+    {
+      "id": 1005,
+      "name": "Harvest",
+      "variant": "1.5L",
+      "shelf_price": "$3.69",
+      "original_price": null,
+      "unit_price": "$0.07 per fl oz",
+      "current_promo_details": {
+        "promo_label": null,
+        "details": "Harvest LaCroix Sparkling Water",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": "$3.29",
+      "recommendations": [
+        "Harvest Lemon Sparkling Water 1.5L",
+        "Perrier Sparkling Mineral Water"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "review_count": 98
+      }
+    },
+    {
+      "id": 1001,
+      "name": "Colgate",
+      "variant": null,
+      "shelf_price": null,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY 2 GET 1 FREE",
+        "details": "AMAZING VALUE!",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "Colgate Total Whitening Toothpaste",
+        "Oral-B CrossAction Toothbrush"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 2405
+      }
+    },{},
+    {
+      "id": 1012, 
+      "name": "Britannia Good day Choco Chip Cookies",
+      "variant": "400 Gm",
+      "shelf_price": 150,
+      "original_price": null,
+      "unit_price": 18.75,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1013, 
+      "name": "A-1 Chips Cassava Chips Chilly",
+      "variant": "160 G",
+      "shelf_price": 84,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "review_count": 14
+      }
+    },
+    {
+      "id": 1014, 
+      "name": "Khara Boondi",
+      "variant": "450 G Premium Quality",
+      "shelf_price": 139,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 3.7,
+        "review_count": 27
+      }
+    },
+    {
+      "id": 1015, 
+      "name": "Granamma Crunchy Nippattu Thattai",
+      "variant": "240 G",
+      "shelf_price": 93,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 2.7,
+        "review_count": 94
+      }
+    },
+    {
+      "id": 1016, 
+      "name": "Bhikaji Sub Kuch",
+      "variant": "1 Kg",
+      "shelf_price": 370,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 5,
+        "review_count": 84
+      }
+    },
+    {
+      "id": 1017, 
+      "name": "Granamma Kodubale Ring Murukku",
+      "variant": "240 G",
+      "shelf_price": 93,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1018, 
+      "name": "Britannia Jim Jam pops",
+      "variant": "350 Gm",
+      "shelf_price": 108,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "review_count": 78
+      }
+    },
+    {
+      "id": 1019, 
+      "name": "Karachi's Chai cookies",
+      "variant": "400 Gm",
+      "shelf_price": 180,
+      "original_price": null,
+      "unit_price": 18.75,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1020, 
+      "name": "Lotte Choco Pie",
+      "variant": "150 Gm",
+      "shelf_price": 180,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.9,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1021, 
+      "name": "Britannia Good day Choco Chip Cookies",
+      "variant": "400 Gm",
+      "shelf_price": 150,
+      "original_price": null,
+      "unit_price": 18.75,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1022, 
+      "name": "Parle Nutricrunch Digestive Cookies",
+      "variant": "1 Kg",
+      "shelf_price": 285,
+      "original_price": null,
+      "unit_price": 14.25,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 3.0,
+        "review_count": 64
+      }
+    },
+    {
+      "id": 1023, 
+      "name": "Mahalaxmi Disco Chikki",
+      "variant": "500 Gm",
+      "shelf_price": 200,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 2.1,
+        "review_count": 3
+      }
+    },
+    {
+      "id": 1024, 
+      "name": "Karachi Besan Mysore Pak",
+      "variant": "200 Gm",
+      "shelf_price": 120,
+      "original_price": null,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "BUY 1 GET 1 FREE",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 0
+      }
+    },
+    {
+      "id": 1025, 
+      "name": "Badshah Biriyani Pulav Masala",
+      "variant": "400 Gm",
+      "shelf_price": 92,
+      "original_price": 142,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "50 Rupees Off",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 2.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1026, 
+      "name": "Goldiee Biriyani / Pulav Masala",
+      "variant": null,
+      "shelf_price": 44,
+      "original_price": null,
+      "unit_price": 18.75,
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "Free 20% Extra",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 24
+      }
+    },
+    {
+      "id": 1027, 
+      "name": "Everest Chicken Masala",
+      "variant": "100g",
+      "shelf_price": 82,
+      "original_price": 67,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "15 Rupees Off",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.0,
+        "review_count": 0
+      }
+    },
+    {
+      "id": 1027, 
+      "name": "Rajam Ring Murukku",
+      "variant": "150 Gm",
+      "shelf_price": 10,
+      "original_price": 46,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "SALE",
+        "details": "10 Rupees Off",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.0,
+        "review_count": 0
+      }
+    }
+  ],
+  "image_type": "ecommerce_api",
+  "compliance_flags": [
+    "Colgate missing shelf_price, variant, and validity_dates despite active promo."
+  ],
+  "overall_notes": "Live production pricing fetched from the company's central e-commerce database. Enriched with historical pricing, future schedules, and sentiment metrics."
+}
