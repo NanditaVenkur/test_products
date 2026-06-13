@@ -13,7 +13,7 @@
         "validity_dates": "06/01-06/15"
       },
       "future_promo_details": {
-        "promo_label": "BOGO 50%",
+        "promo_label": "OFF",
         "details": "Buy one get one 50% off regular price",
         "validity_dates": "06/16-06/30"
       },
@@ -58,7 +58,7 @@
       "original_price": null,
       "unit_price": "$0.20 per fl oz",
       "current_promo_details": {
-        "promo_label": null,
+        "promo_label": "SAVE MORE",
         "details": "Everyday low price",
         "validity_dates": null
       },
@@ -85,7 +85,7 @@
       "original_price": null,
       "unit_price": "$0.07 per fl oz",
       "current_promo_details": {
-        "promo_label": null,
+        "promo_label": "BUY X GET Y",
         "details": "Harvest LaCroix Sparkling Water",
         "validity_dates": null
       },
@@ -108,7 +108,7 @@
       "original_price": null,
       "unit_price": null,
       "current_promo_details": {
-        "promo_label": "BUY 2 GET 1 FREE",
+        "promo_label": "BUY X GET Y",
         "details": "AMAZING VALUE!",
         "validity_dates": null
       },
@@ -132,7 +132,7 @@
       "unit_price": 18.75,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -155,7 +155,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -178,7 +178,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -201,7 +201,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -224,7 +224,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -247,7 +247,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -270,7 +270,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -293,7 +293,7 @@
       "unit_price": 18.75,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -316,7 +316,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -339,7 +339,7 @@
       "unit_price": 18.75,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -362,7 +362,7 @@
       "unit_price": 14.25,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -385,7 +385,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -408,7 +408,7 @@
       "unit_price": null,
       "current_promo_details": {
         "promo_label": "BUY X GET Y",
-        "details": "BUY 1 GET 1 FREE",
+        "details": "Buy 1 Get 1 Free",
         "validity_dates": null
       },
       "future_promo_details": null,
@@ -492,7 +492,7 @@
       }
     },
     {
-      "id": 1027, 
+      "id": 1050, 
       "name": "Rajam Ring Murukku",
       "variant": "150 Gm",
       "shelf_price": 10,
@@ -513,11 +513,545 @@
         "average_rating": 4.0,
         "review_count": 0
       }
+    },
+    {
+      "id": 1028,
+      "name": "Ganamma Kombale King Rukku",
+      "variant": null,
+      "shelf_price": 100,
+      "original_price": 100,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1",
+        "r2"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "review_count": 1240
+      }
+    },
+    {
+      "id": 1029,
+      "name": "Ganamma Dubale",
+      "variant": null,
+      "shelf_price": 240.0,
+      "original_price": 240,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "review_count": 1240
+      }
+    },
+     {
+      "id": 1030,
+      "name": "Sunfeast Dark Fantasy Choco Fills",
+      "variant": null,
+      "shelf_price": 328.0,
+      "original_price": 328.0,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+      {
+      "id": 1031,
+      "name": "WALKERS EXTRA CRUNCHY Crisps and Snacks",
+      "variant": "150 G",
+      "shelf_price": 38.0,
+      "original_price": 38.0,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free Cheapest Product Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1032,
+      "name": "Ponds Dream Flower Talc",
+      "variant": "200 GM",
+      "shelf_price": 175,
+      "original_price": 215,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "40 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+
+     {
+      "id": 1033,
+      "name": "Grace Perfumed Talc",
+      "variant": "200 GM",
+      "shelf_price": 115,
+      "original_price": 115,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+    
+    {
+      "id": 1035,
+      "name": "Cuddles Premium Pants M (20Pcs)",
+      "variant": "20 Pcs",
+      "shelf_price": 280,
+      "original_price": 280,
+      "unit_price": "7 per Pc",
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+
+    {
+      "id": 1036,
+      "name": "Kissan No Onion No Garlic Tomato Sauce (900 Gm)",
+      "variant": "900 Gm",
+      "shelf_price": 115,
+      "original_price": 130,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "15 Off",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+    {
+      "id": 1037,
+      "name": "Surabhi Natural Tomato Ketchup (900 Gm)",
+      "variant": "900 Gm",
+      "shelf_price": 135,
+      "original_price": 145,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+    {
+      "id": 1038,
+      "name": "Amul Fresh Paneer (200 G)",
+      "variant": "200 G",
+      "shelf_price": 77,
+      "original_price": 87,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "10 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+
+     {
+      "id": 1039,
+      "name": "Chetran's Tofu Soya Paneer",
+      "variant": "250 G",
+      "shelf_price": 52,
+      "original_price": 60,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "8 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1040,
+      "name": "Premium Seviyan Roasted (450 G)",
+      "variant": "450 G",
+      "shelf_price": 100,
+      "original_price": 100,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1041,
+      "name": "Clean N Clear Foaming Face Wash (240 ml)",
+      "variant": "240ml",
+      "shelf_price": 300,
+      "original_price": 300,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+    {
+      "id": 1042,
+      "name": "Himalaya Purifying Neem Face Wash",
+      "variant": "240 ml",
+      "shelf_price": 195,
+      "original_price": 205,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "40 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1043,
+      "name": "Nivia Body Milk Nourishing Lotion 400 ml",
+      "variant": "400 ml",
+      "shelf_price": 425,
+      "original_price": 425,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1044,
+      "name": "Nivia Cocoa Nourish Lotion (400 ml)",
+      "variant": "400 ml",
+      "shelf_price": 519,
+      "original_price": 519,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1045,
+      "name": "Loreal Paria 3xhairfall Shampoo (396 ml)",
+      "variant": "396 ml",
+      "shelf_price": 349,
+      "original_price": 379,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "30 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1046,
+      "name": "Home Chef Ketchup (1 Kg)",
+      "variant": "1 Kg",
+      "shelf_price": 125,
+      "original_price": 125,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1047,
+      "name": "Colgate Maxfresh Red Gel Toothpaste",
+      "variant": null,
+      "shelf_price": 109,
+      "original_price": 164,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "55 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+
+     {
+      "id": 1048,
+      "name": "Nidhi Cookware",
+      "variant": null,
+      "shelf_price": 595,
+      "original_price": 595,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": null,
+        "details": null,
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1049,
+      "name": "Gaia Crunchy Muesli Nut Delight",
+      "variant": null,
+      "shelf_price": 510,
+      "original_price": 510,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1050,
+      "name": "Sunfeast Dark Fantasy Choco Fills (75 Gm)",
+      "variant": null,
+      "shelf_price": 26,
+      "original_price": 30,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "4 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1051,
+      "name": "Quaker Oats Pouch",
+      "variant": null,
+      "shelf_price": 195,
+      "original_price": 260,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "OFF",
+        "details": "65 OFF",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
+    },
+     {
+      "id": 1052,
+      "name": "Et-Mi Khaman Dhokla Mix (200 G)",
+      "variant": "200 G",
+      "shelf_price": 55,
+      "original_price": 55,
+      "unit_price": null,
+      "current_promo_details": {
+        "promo_label": "BUY X GET Y",
+        "details": "Buy 1 Get 1 Free",
+        "validity_dates": null
+      },
+      "future_promo_details": null,
+      "lowest_price": null,
+      "recommendations": [
+        "r1"
+      ],
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "review_count": 120
+      }
     }
   ],
-  "image_type": "ecommerce_api",
+  "image_type": "flyer",
   "compliance_flags": [
-    "Colgate missing shelf_price, variant, and validity_dates despite active promo."
+    ""
   ],
-  "overall_notes": "Live production pricing fetched from the company's central e-commerce database. Enriched with historical pricing, future schedules, and sentiment metrics."
+  "overall_notes": ""
 }
